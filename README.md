@@ -10,9 +10,6 @@
   - Frameworks: ReactJS , NextJS
 - 📫 krishnabhardwaj200517@gmail.com
 
-### GitHub Stats
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahilbhardwajjj&show_icons=true&theme=radical)
-
 ### Let's Connect!
 
 - X https://x.com/NARUTOU49688570

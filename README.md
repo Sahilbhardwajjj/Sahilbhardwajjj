@@ -3,7 +3,6 @@
 ### About Me
 
 - 🎓 I am currently pursuing my Computer Engineering
-- 💼 Currently looking for Internship
 - 🌏 Pune , Maharashtra
 - 🛠️ Tech Stats
   - Languages: HTML , CSS , JS 

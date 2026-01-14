@@ -2,6 +2,8 @@
 
 ### About Me
 
+- 🚀 Full Stack Web Developer specializing in the MERN stack. Passionate about building scalable applications and clean code. Currently SDE Intern @ Asics Technologies. 📍 Pune, India
+
 - 🎓 I am currently pursuing my Computer Engineering
 - 🌏 Pune , Maharashtra
 - 🛠️ Tech Stats

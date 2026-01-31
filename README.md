@@ -1,6 +1,6 @@
 # Hi there, I'm Sahil Bhardwaj! 👋
 
-### 👨‍💻 Software Developer | Full Stack Web Specialist
+### 👨‍💻 Software Developer | Full Stack Web Developer
 *Based in Pune, India*
 
 I am a passionate **Full Stack Web Developer** with expertise in building scalable, responsive web applications using the MERN stack. I focus on writing clean, efficient code and delivering seamless user experiences.

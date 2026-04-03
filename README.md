@@ -37,10 +37,6 @@ I am a Full-stack Developer based in **Pune, Maharashtra**, currently pursuing m
 
 -----
 
-## 📊 GitHub Stats
-
------
-
 ## 📫 Connect with Me
 
   * 📧 **Email:** [krishnabhardwaj200517@gmail.com](mailto:krishnabhardwaj200517@gmail.com)

@@ -43,5 +43,5 @@ I am a Full-stack Developer based in **Pune, Maharashtra**, currently pursuing m
 
 ## 📫 Connect with Me
 
-  * 📧 **Email:** [krishnabhardwaj200517@gmail.com](mailto:krishnabhardwaj200517@gmail.com)[cite: 1]
-  * 💼 **LinkedIn:** [Sahil Bhardwaj](https://www.google.com/search?q=YOUR_LINKEDIN_URL)
+  * 📧 **Email:** [krishnabhardwaj200517@gmail.com](mailto:krishnabhardwaj200517@gmail.com)
+  * 💼 **LinkedIn:** [Sahil Bhardwaj](https://www.linkedin.com/in/sahilbhardwajj/)

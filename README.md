@@ -33,7 +33,7 @@ I am a Full-stack Developer based in **Pune, Maharashtra**, currently pursuing m
 
 ## 💼 Work Experience
 
-**Software Developer Intern** | *Datapro Information Technology Pvt Ltd* (Sep 2025 - Feb 2026)
+**Software Developer Intern** | *Datapro Information Technology Pvt Ltd* (Dec 2025 - May 2026)
 
 -----
 

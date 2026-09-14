@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sahil Bhardwaj
 
-### **Full-Stack Developer | Generative AI & AI Agent Enthusiast**
+### **Full-Stack Developer | Generative AI **
 
 I am a Full-stack Developer based in **Pune, Maharashtra**, currently pursuing my **BE in Information Technology** at **SKNCOE**. My expertise lies in building scalable **MERN applications**, and I am currently deep-diving into **Retrieval-Augmented Generation (RAG)** and **AI Agent orchestration** to build context-aware, intelligent systems.
 

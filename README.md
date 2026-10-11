@@ -28,25 +28,6 @@ I'm a final-year **Information Technology** student at **SKNCOE, Pune**. I build
 ### Currently Learning
 
 - **AI / LLM:** LangChain, LangGraph, Hugging Face, Gemini API
-- **Vector & Graph DBs:** Qdrant, Pinecone, Neo4j
-- **Other:** Redis, Docker, Nginx
-
----
-
-## 📁 Featured Projects
-
-### [StackOverLove](https://stackoverlove.vercel.app/)
-A developer networking platform that connects people based on shared interests.
-- React + Redux + Tailwind CSS frontend, Node.js + Express backend, MongoDB
-- 20+ REST APIs with custom validation and centralized error-handling middleware
-- JWT authentication with bcrypt password hashing
-- Compound indexing and a paginated feed API for low-latency data delivery
-
-### IntervAI
-A generative-AI interview preparation platform. It analyzes a resume and a target job description, finds skill gaps, and creates a personalised preparation plan.
-- Google Gemini with Zod schema validation for structured question generation
-- Server-side document pipeline using pdf-parse and Puppeteer to generate ATS-friendly PDF resumes
-- JWT in HTTP-only cookies with MongoDB-backed token blacklisting for secure logout
 
 ---
 
